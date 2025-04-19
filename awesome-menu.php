@@ -76,7 +76,10 @@
   </style>
 </head>
 <body>
-  <div id="app" style="margin-top:5em;">
+  <!-- UWAGA: Styl w #app (margin-top:5em; width:500px;) został użyty wyłącznie w celach demonstracyjnych,
+       aby ułatwić wizualne testowanie dropdownu. W praktycznym projekcie możesz go usunąć lub dostosować. -->
+  <div id="app" style="margin-top:5em; width:500px;">
+
     <div class="menu-container" ref="menuContainer">
       <ul class="menu" ref="menuList">
         <li
