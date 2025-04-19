@@ -1,4 +1,4 @@
-# Vue 3 – Dynamiczne Menu z Teleportowanym Dropdownem
+# Vue 3 – Dynamiczne Menu
 
 Ten projekt to responsywne, poziome menu zbudowane w Vue 3, które obsługuje sytuacje, gdy zakładki nie mieszczą się w jednej linii. Nadmiarowe pozycje trafiają do rozwijanego menu `⋯`, które jest teleportowane do `<body>` i wyświetlane absolutnie nad układem.
 
