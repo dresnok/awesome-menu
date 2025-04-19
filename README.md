@@ -1,4 +1,14 @@
-# Vue 3 – Dynamiczne Menu
+## 🔗 Live Demo
+
+👉 [Zobacz demo](http://asperion24.eu/github/awesome-menu/awesome-menu.php)  
+
+## 📝 Uwagi dotyczące stylów demonstracyjnych
+
+W przykładowym pliku HTML, kontener `#app` został opatrzony tymczasowym stylem:
+<body>
+<div id="app" style="margin-top:5em; width:500px;">
+
+# Vue 3 – Dynamiczne Menu z Teleportowanym Dropdownem
 
 Ten projekt to responsywne, poziome menu zbudowane w Vue 3, które obsługuje sytuacje, gdy zakładki nie mieszczą się w jednej linii. Nadmiarowe pozycje trafiają do rozwijanego menu `⋯`, które jest teleportowane do `<body>` i wyświetlane absolutnie nad układem.
 
@@ -58,6 +68,7 @@ Ten projekt to responsywne, poziome menu zbudowane w Vue 3, które obsługuje sy
 ## 📄 Licencja
 
 Projekt testowo-edukacyjny – możesz używać, modyfikować i rozszerzać dowolnie.
+
 ---
 
 ## 🔗 Strona domowa
