@@ -1,6 +1,6 @@
 ## 🔗 Live Demo
 
-👉 [Zobacz demo](http://asperion24.eu/github/awesome-menu/awesome-menu.php)  
+👉 [Zobacz demo](http://company12.atwebpages.com/?next=awesome-menu)  
 
 ## 📝 Uwagi dotyczące stylów demonstracyjnych
 
